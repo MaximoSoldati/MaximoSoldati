@@ -28,3 +28,8 @@ Libros Favoritos
 	Como ganar amigos e influir sobre las personas
 
 Equipos De Futbol Favoritos
+	Manchester city
+	Inter
+	River
+	Real Madrid
+	Arsenal
