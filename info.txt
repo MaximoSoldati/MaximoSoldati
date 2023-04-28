@@ -21,4 +21,10 @@ Películas Favoritas
 	Unspeachable
 
 Libros Favoritos
+	12 reglas para vivir
+	El principe de Maquiavelo
+	Soy exito
+	The Alchemist
+	Como ganar amigos e influir sobre las personas
+
 Equipos De Futbol Favoritos
